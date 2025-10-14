@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zhiyad96/leetcode_solutions/tree/master/0001-two-sum) |
+| [1848-sum-of-unique-elements](https://github.com/zhiyad96/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zhiyad96/leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/zhiyad96/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [1848-sum-of-unique-elements](https://github.com/zhiyad96/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/zhiyad96/leetcode_solutions/tree/master/0342-power-of-four) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/zhiyad96/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
