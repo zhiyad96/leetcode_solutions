@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/zhiyad96/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/zhiyad96/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/zhiyad96/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/zhiyad96/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/zhiyad96/leetcode_solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
