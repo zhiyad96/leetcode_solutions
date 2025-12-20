@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/zhiyad96/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/zhiyad96/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/zhiyad96/leetcode_solutions/tree/master/0342-power-of-four) |
+| [2235-add-two-integers](https://github.com/zhiyad96/leetcode_solutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
