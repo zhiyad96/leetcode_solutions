@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/zhiyad96/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/zhiyad96/leetcode_solutions/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/zhiyad96/leetcode_solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/zhiyad96/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/zhiyad96/leetcode_solutions/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/zhiyad96/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
