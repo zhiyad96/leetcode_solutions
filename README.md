@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/zhiyad96/leetcode_solutions/tree/master/0001-two-sum) |
 | [1848-sum-of-unique-elements](https://github.com/zhiyad96/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/zhiyad96/leetcode_solutions/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
