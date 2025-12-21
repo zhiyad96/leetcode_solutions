@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/zhiyad96/leetcode_solutions/tree/master/0001-two-sum) |
 | [1848-sum-of-unique-elements](https://github.com/zhiyad96/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [3028-ant-on-the-boundary](https://github.com/zhiyad96/leetcode_solutions/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/zhiyad96/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [3028-ant-on-the-boundary](https://github.com/zhiyad96/leetcode_solutions/tree/master/3028-ant-on-the-boundary) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/zhiyad96/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/zhiyad96/leetcode_solutions/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
