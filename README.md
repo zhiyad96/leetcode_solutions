@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/zhiyad96/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/zhiyad96/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/zhiyad96/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [1952-three-divisors](https://github.com/zhiyad96/leetcode_solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/zhiyad96/leetcode_solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/zhiyad96/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zhiyad96/leetcode_solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/zhiyad96/leetcode_solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/zhiyad96/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zhiyad96/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/zhiyad96/leetcode_solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
