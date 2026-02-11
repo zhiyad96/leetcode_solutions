@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zhiyad96/leetcode_solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/zhiyad96/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zhiyad96/leetcode_solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zhiyad96/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/zhiyad96/leetcode_solutions/tree/master/0344-reverse-string) |
 ## String Matching
