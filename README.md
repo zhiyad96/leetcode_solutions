@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/zhiyad96/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zhiyad96/leetcode_solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/zhiyad96/leetcode_solutions/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/zhiyad96/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zhiyad96/leetcode_solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/zhiyad96/leetcode_solutions/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/zhiyad96/leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
